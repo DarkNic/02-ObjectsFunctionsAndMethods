@@ -11,6 +11,7 @@ def main():
     """
     Calls the other functions in this module to test and/or demonstrate them.
     """
+
     drawing_speed = 10  # Bigger numbers mean faster drawing
     window = rg.TurtleWindow()
     window.tracer(drawing_speed)
